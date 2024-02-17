@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Evangadiforum_frontend/static/css/main.1698f822.css",
+    "main.js": "/Evangadiforum_frontend/static/js/main.3a60d74d.js",
+    "static/media/bg-svg-f.svg": "/Evangadiforum_frontend/static/media/bg-svg-f.192609b8540a56a36a47cf339386fe08.svg",
+    "index.html": "/Evangadiforum_frontend/index.html",
+    "main.1698f822.css.map": "/Evangadiforum_frontend/static/css/main.1698f822.css.map",
+    "main.3a60d74d.js.map": "/Evangadiforum_frontend/static/js/main.3a60d74d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1698f822.css",
+    "static/js/main.3a60d74d.js"
+  ]
+}
